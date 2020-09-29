@@ -1,6 +1,6 @@
 ## Problem
 
-There are **N** houses for sale. The i-th house costs **Ai** dollars to buy. You have a budget of **B** dollars to spend.
+There are **N** houses for sale. The i-th house costs **A<sub>i</sub>** dollars to buy. You have a budget of **B** dollars to spend.
 
 What is the maximum number of houses you can buy?
 
