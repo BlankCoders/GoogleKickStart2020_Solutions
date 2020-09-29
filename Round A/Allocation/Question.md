@@ -15,9 +15,8 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 **Limits**
 
 - Time limit: `15 seconds per test set.`
-- Memory limit: 
+- Memory limit: 1GB.
 ```
-1GB.
 1 ≤ T ≤ 100.
 1 ≤ B ≤ 105.
 1 ≤ A<sub>i</sub> ≤ 1000, for all i.
