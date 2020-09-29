@@ -53,3 +53,5 @@ Case #3: 0
 * In Sample Case #1, you have a budget of 100 dollars. You can buy the 1st and 3rd houses for 20 + 40 = 60 dollars.
 * In Sample Case #2, you have a budget of 50 dollars. You can buy the 1st, 3rd and 4th houses for 30 + 10 + 10 = 50 dollars.
 * In Sample Case #3, you have a budget of 300 dollars. You cannot buy any houses (so the answer is 0).
+
+**Go to the Editor:** <https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f56>
