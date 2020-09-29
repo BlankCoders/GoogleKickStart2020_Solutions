@@ -19,7 +19,7 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 ```
 1 ≤ T ≤ 100.
 1 ≤ B ≤ 105.
-1 ≤ A<sub>i</sub> ≤ 1000, for all i.
+1 ≤ Ai ≤ 1000, for all i.
 ```
 
 - Test set 1
