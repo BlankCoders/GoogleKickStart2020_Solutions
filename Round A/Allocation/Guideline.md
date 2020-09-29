@@ -3,7 +3,9 @@
 * Follow the Link: <https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7>
 * Solve either in C or C++ or Java or Python.
 * Create a folder within the Question Folder with name `FirstName-ProgrammingLanguage`, for ex: `Falguni-Python`.
-    - Add Code with questionname.extension, for ex: `Allocation.py`.
+
+    In the folder:
+    - Add Code Filename with name `questionname.extension`, for ex: `Allocation.py`.
     - Add Editor Screenshot as shown below:
     
       <img src="https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/EditorSS/falguni_soln.png">
