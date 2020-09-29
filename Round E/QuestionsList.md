@@ -1,5 +1,5 @@
 # Google Kick Start 2020
-## Round B - Questions:
+## Round E - Questions:
 - [Longest Arithmetic]()
 - [High Buildings]()
 - [Toys]()
