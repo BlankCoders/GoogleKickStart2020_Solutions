@@ -1,1 +1,0 @@
-# GoogleKickStart2020_Solutions
