@@ -1,6 +1,6 @@
 ## Guidelines:
 
-* Follow the Link: <https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7>
+* Follow the Link: <https://codingcompetitions.withgoogle.com/kickstart>
 * Solve either in C or C++ or Java or Python.
 * Create a folder within the Question Folder with name `FirstName-ProgrammingLanguage`, for ex: `Falguni-Python`.
 
