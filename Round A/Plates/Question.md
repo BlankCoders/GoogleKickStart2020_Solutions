@@ -1,4 +1,4 @@
-## Problem : Plates
+## Problem: Plates
 
 Dr. Patel has **N** stacks of plates. Each stack contains **K** plates. Each plate has a positive *beauty* value, describing how beautiful it looks.
 
