@@ -67,5 +67,5 @@ Case #2: 18
     In total, the sum of beauty values is 180.
 
 
-**Go the editor:**
+**Go to the Editor:**
 <https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d40bb>
