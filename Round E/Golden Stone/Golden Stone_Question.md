@@ -90,7 +90,7 @@ Case #2: 2
 Case #3: 0
 ```
 
-**Explaination**
+**Explanation**
 
 * In the first test case, the minimum amount of energy is achieved if Leopold collects the stones 2, 3, and 4 at the junctions 2, 3, and 4, respectively, carries the stones to the junction 1, and uses his only recipe to transform the three stones into a golden stone. This way, three stones are carried along one street each, therefore, the total amount of energy spent is 3.
 
