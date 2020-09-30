@@ -30,6 +30,7 @@ The first line consists of a single integer, **K**.
 The second line consists of **K** space-separated integers, **A<sub>1</sub>**, **A<sub>2</sub>** ... **A<sub>K</sub>**, where **A<sub>i</sub>** refers to the pitch of the i-th note for this test case.
 
 **Output**
+
 For each test case, output one line containing `Case #x: y`, where `x` is the test case number (starting from 1) and `y` is the minimum number of times that particular test case will require the alien to break its own rules during the conversion process.
 
 **Limits**
@@ -43,12 +44,12 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 
 - Test set 1
 
-- `Time limit: 15 seconds per test set.`
+  - `Time limit: 15 seconds per test set.`
 `1 ≤ K ≤ 10.`
 
 - Test set 2
 
-- `Time limit: 20 seconds per test set.`
+  - `Time limit: 20 seconds per test set.`
 `1 ≤ K ≤ 10^4.`
 
 **Sample**
