@@ -23,24 +23,27 @@ The first line of the input gives the number of test cases, T. T lines follow. E
 
 **Output**
 
-For each test case, output one line containing `Case #x: y`, where `x` is the test case number (starting from 1) and `y` is the number of peaks in Li's bike tour.
+For each test case, output one line containing Case #x: w h, where x is the test case number (starting from 1) and w h is the final square (w, h) the rover finishes in.
 
 **Limits**
 
 - Time limit: `10 seconds per test set`.
 - Memory limit: `1GB.`
+- 1 ≤ T ≤ 100.
+
 ```
 1 ≤ T ≤ 100.
-1 ≤ Hi ≤ 100.
 ```
+The string represents a valid program.
+The length of each program is between 1 and 2000 characters inclusive.
 
 - Test set 1
 
-`3 ≤ N ≤ 5.`
+`The total number of moves the robot will make in a single test case is at most 10^4.`
 
 - Test set 2
 
-`3 ≤ N ≤ 100.`
+`No additional constraints.`
 
 **Sample**
 
