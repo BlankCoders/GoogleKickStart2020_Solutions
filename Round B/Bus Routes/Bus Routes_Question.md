@@ -77,4 +77,4 @@ In Sample Case #3, there is **N** = 1 bus route and Bucket must arrive by day **
 
 - Take the 1st bus on day 1 (**X<sub>1</sub>** = 1).
 
-**Go to the Editor:** <https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000386edd>
+**Go to the Editor:** <https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83bf>
