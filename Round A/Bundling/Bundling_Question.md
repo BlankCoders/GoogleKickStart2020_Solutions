@@ -22,7 +22,7 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 - Memory limit: `1GB.`
 ```
 1 ≤ T ≤ 100.
-2 ≤ N ≤ 105.
+2 ≤ N ≤ 10^5.
 2 ≤ K ≤ N.
 K divides N.
 Each of Pip's strings contain at least one character.
