@@ -34,4 +34,13 @@ for t in range(1,T+1):
 * Plagirism is strongly discouraged.
 
 ### Regarding PRs:
-All the PRs will be marked as **"INVALID"** if you have not been assigned to any issues. To work on this repository, it's necessary to mention on what issue you want to work.
+- All the PRs will be marked as **"INVALID"** if you have not been assigned to any issues. To work on this repository, it's necessary to mention on what issue you want to work.
+- Layout of PR Description:
+    ```
+    Issue Number for which I'm assigned & worked: #
+    (write the issue number after # symbol)
+    ```
+    Example:
+    ```
+    Issue Number for which I'm assigned & worked: #3
+    ```
