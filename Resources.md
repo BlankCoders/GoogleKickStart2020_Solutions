@@ -104,12 +104,6 @@ Read the [participation details](https://hacktoberfest.digitalocean.com/details)
       <img src="https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/Save2.JPG" alt="clone">
       
 3. ### Upload your Code or Change and Push it
-
-    Make what change you want to make in Repo. It can be spelling mistake, code correction or anything.
-
-    You can also upload your program to respective folder. It can be anything "Hello world program", "Rock Paper Scissors",etc.
-
-    `All Repository are open for contributions.`
     
     <img src="https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/commands.JPG" alt="clone">
     
