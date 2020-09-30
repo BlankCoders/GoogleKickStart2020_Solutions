@@ -20,7 +20,7 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 - Memory limit: `1GB.`
 ```
 1 ≤ T ≤ 100.
-For at most 10 test cases, 2 ≤ N ≤ 105.
+For at most 10 test cases, 2 ≤ N ≤ 10^5.
 For all other test cases, 2 ≤ N ≤ 300.
 1 ≤ Mi ≤ 109.
 Mi < Mi+1 for all i.
