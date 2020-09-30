@@ -45,12 +45,12 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 - Test set 1
 
   - `Time limit: 15 seconds per test set.`
-`1 ≤ K ≤ 10.`
+  - `1 ≤ K ≤ 10.`
 
 - Test set 2
 
   - `Time limit: 20 seconds per test set.`
-`1 ≤ K ≤ 10^4.`
+  - `1 ≤ K ≤ 10^4.`
 
 **Sample**
 
