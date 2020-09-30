@@ -1,4 +1,4 @@
-## Problem: Plates
+## Problem: Bundling
 
 Pip has **N** strings. Each string consists only of letters from `A` to `Z`. Pip would like to bundle their strings into *groups* of size **K**. Each string must belong to exactly one group.
 
