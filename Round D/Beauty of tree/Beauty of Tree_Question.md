@@ -62,7 +62,7 @@ Case #2: 1.9
 Case #3: 2.875
 ```
 
-**Explaination**
+**Explanation**
 
 The trees for each sample case are shown in the diagram below.
 
