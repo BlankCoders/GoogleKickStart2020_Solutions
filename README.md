@@ -18,6 +18,6 @@ Visit [Guideline.md](https://github.com/BlankCoders/GoogleKickStart2020_Solution
 Visit [Resources.md](https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/Resources.md) to know about Git & GitHub.
 
 ### Disclaimer
-Plagirism is strongly discourged.
+Plagirism is strongly discouraged.
 
 ## :rocket: All the Best for Hacktoberfest! :rocket:
