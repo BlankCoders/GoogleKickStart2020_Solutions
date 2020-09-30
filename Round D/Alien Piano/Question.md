@@ -69,7 +69,7 @@ Case #1: 0
 Case #2: 1
 ```
 
-**Explaination**
+**Explanation**
 
 We will use the notation A, B, C, D for the alien piano keys where A is the lowest note, and D is the highest.
 
