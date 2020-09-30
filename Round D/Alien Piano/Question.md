@@ -71,7 +71,9 @@ Case #2: 1
 
 **Explaination**
 
-We will use the notation A, B, C, D for the alien piano keys where A is the lowest note, and D is the highest. In sample case #1, the alien can simply map our song into the following sequence: A B C D C and this correctly reflects all the following:
+We will use the notation A, B, C, D for the alien piano keys where A is the lowest note, and D is the highest.
+
+In sample case #1, the alien can simply map our song into the following sequence: A B C D C and this correctly reflects all the following:
 
 * our first note with pitch 1 maps to A,
 * our second note with pitch 5 maps to its key B. 5 > 1, and B is a higher key than A,
