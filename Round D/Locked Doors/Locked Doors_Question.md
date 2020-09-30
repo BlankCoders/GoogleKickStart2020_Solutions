@@ -33,8 +33,8 @@ All Di are distinct.
 ```
 
 - Test set 2
-`2 ≤ N ≤ 105 and 1 ≤ Q ≤ 105 for at most 20 test cases.`
-`For the remaining cases, 2 ≤ N ≤ 1000 and 1 ≤ Q ≤ 1000.`
+```2 ≤ N ≤ 105 and 1 ≤ Q ≤ 105 for at most 20 test cases.
+For the remaining cases, 2 ≤ N ≤ 1000 and 1 ≤ Q ≤ 1000.```
 
 **Sample**
 
