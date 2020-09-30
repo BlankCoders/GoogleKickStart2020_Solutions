@@ -67,4 +67,4 @@ Case #4: 0
 - In sample case #3, the 2nd and 4th checkpoint are peaks.
 - In sample case #4, there are no peaks.
 
-**Go to the Editor:** <https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000386edd>
+**Go to the Editor:** <https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d82e6>
