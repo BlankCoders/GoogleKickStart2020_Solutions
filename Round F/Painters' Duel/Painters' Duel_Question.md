@@ -116,7 +116,7 @@ Case #2: 0
   - We do not know exactly how the rest of this game will play out, but we do know the best score that Alma can guarantee.
   - It is possible that one or more rooms that are not under construction do not get painted.
   
-  In Case #2, Alma must move to (3, 3), and then it is better for Berthe to move to (3, 4) than to (2, 2).
+* In Case #2, Alma must move to (3, 3), and then it is better for Berthe to move to (3, 4) than to (2, 2).
   
 **Go to the Editor:** <https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48/00000000003f47fb>
 
