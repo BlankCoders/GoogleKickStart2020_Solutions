@@ -21,3 +21,5 @@ Visit [Resources.md](https://github.com/BlankCoders/GoogleKickStart2020_Solution
 Plagirism is strongly discouraged.
 
 ## :rocket: All the Best for Hacktoberfest! :rocket:
+
+(Mail us at [blankcoders@gmail.com](mailto:blankcoders@gmail.com) for any problem, issues or suggestions!)
