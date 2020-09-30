@@ -5,7 +5,7 @@
 * Create a folder within the Question Folder with name `FirstName-ProgrammingLanguage`, for ex: `Falguni-Python`.
 
     In the folder:
-    - Add Code Filename with name `questionname.extension`, for ex: `Allocation.py`.
+    - Add Code File with name `questionname.extension`, for ex: `Allocation.py`.
     - Add Editor Screenshot as shown below:
     
       <img src="https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/EditorSS/falguni_soln.png">
