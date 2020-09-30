@@ -58,7 +58,7 @@ Case #2: 99
 Case #3: 1
 ```
 
-**Explaination**
+**Explanation**
 
 In Sample Case #1, there are **N** = 3 bus routes and Bucket must arrive by day **D** = 10. She could:
 
