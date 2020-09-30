@@ -30,7 +30,7 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 
 - Test set 1
 
-`1 ≤ N ≤ 1000.`
+  - `1 ≤ N ≤ 1000.`
 
 - Test set 2
 
