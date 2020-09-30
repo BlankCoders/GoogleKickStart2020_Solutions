@@ -1,3 +1,5 @@
+// Inspired by Ashish Gupta
+
 #include <bits/stdc++.h>
 using namespace std;
 
