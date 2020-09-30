@@ -1,4 +1,4 @@
-## Problem
+## Problem: Allocation
 
 There are **N** houses for sale. The i-th house costs **A<sub>i</sub>** dollars to buy. You have a budget of **B** dollars to spend.
 
@@ -18,7 +18,7 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 - Memory limit: `1GB.`
 ```
 1 ≤ T ≤ 100.
-1 ≤ B ≤ 105.
+1 ≤ B ≤ 10^5.
 1 ≤ Ai ≤ 1000, for all i.
 ```
 
@@ -26,7 +26,7 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 `1 ≤ N ≤ 100.`
 
 - Test set 2
-`1 ≤ N ≤ 105.`
+`1 ≤ N ≤ 10^5.`
 
 **Sample**
 
