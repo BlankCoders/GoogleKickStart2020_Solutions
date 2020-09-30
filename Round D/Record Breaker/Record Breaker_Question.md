@@ -34,8 +34,9 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 
 - Test set 2
 
-`1 ≤ N ≤ 2 × 105 for at most 10 test cases.`
-`For the remaining cases, 1 ≤ N ≤ 1000.`
+  - `1 ≤ N ≤ 2 × 105 for at most 10 test cases.`
+
+  - `For the remaining cases, 1 ≤ N ≤ 1000.`
 
 **Sample**
 
@@ -63,8 +64,11 @@ Case #4: 0
 **Explaination**
 
 In Sample Case #1, the bold and underlined numbers in the following represent the record breaking days: 1 2 0 7 2 0 2 0.
+
 In Sample Case #2, only the last day is a record breaking day.
+
 In Sample Case #3, the first, the third, and the sixth days are record breaking days.
+
 In Sample Case #4, there is no record breaking day.
 
 **Go to the Editor:** <https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387171>
