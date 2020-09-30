@@ -10,6 +10,8 @@
     
       <img src="https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/EditorSS/falguni_soln.png">
       
+    Check Example Repository: [Falguni-Python](https://github.com/BlankCoders/GoogleKickStart2020_Solutions/tree/master/Round%20A/Allocation/Falguni-Python)
+    
 * If you upload code that is inspired from somewhere, write the resource by commenting first line like this:
 
 ```
