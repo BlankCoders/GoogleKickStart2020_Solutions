@@ -153,10 +153,6 @@ Read the [participation details](https://hacktoberfest.digitalocean.com/details)
     
     * Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
 
-5. ### Merge
-
-   Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch. Note that all of the commands presented below merge into the current branch.
-
 ## :rocket: Voila! You have Contributed to Open-Source 😋.
 
 If you stuck somewhere contact us:
