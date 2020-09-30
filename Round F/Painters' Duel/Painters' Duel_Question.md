@@ -4,7 +4,7 @@ A new art museum is about to open! It is a single-story building in the shape of
 
 Each room is identified by two numbers: the row of the building it is in (counting from top to bottom, starting from 1), followed by its position within that row (counting from left to right, starting from 1). Here is an example of how the rooms are connected and labeled when S = 3:
 
-<img src="https://codejam.googleapis.com/dashboard/get_file/AQj_6U3MDbo5iIVo9mzZC92KTNXrgWmYw5nGn1xygDDhvxc-EKqsimmS6BlNFKx67bT6xQvTJQ/example.png" align="center">
+<img src="https://codejam.googleapis.com/dashboard/get_file/AQj_6U3MDbo5iIVo9mzZC92KTNXrgWmYw5nGn1xygDDhvxc-EKqsimmS6BlNFKx67bT6xQvTJQ/example.png" align="centre">
 
 Alma and Berthe are artists who are painting the rooms of the museum. Alma starts in the room (**R<sub>A</sub>**, **P<sub>A</sub>**), and Berthe starts in a different room (RB, PB). Each of them has already painted their starting room. C of the other rooms of the museum are under construction, and neither Alma nor Berthe is allowed to enter these rooms or paint them.
 
