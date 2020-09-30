@@ -29,13 +29,12 @@ For each test case, output one line containing Case #x: w h, where x is the test
 
 - Time limit: `10 seconds per test set`.
 - Memory limit: `1GB.`
-- 1 ≤ T ≤ 100.
 
 ```
 1 ≤ T ≤ 100.
-```
 The string represents a valid program.
 The length of each program is between 1 and 2000 characters inclusive.
+```
 
 - Test set 1
 
@@ -51,30 +50,26 @@ The length of each program is between 1 and 2000 characters inclusive.
 
 ```
 4
-3
-10 20 14
-4
-7 7 7 7
-5
-10 90 20 90 10
-3
-10 3 10
+SSSEEE
+N
+N3(S)N2(E)N
+2(3(NW)2(W2(EE)W))
 ```
 
 - Output:
 
 ```
-Case #1: 1
-Case #2: 0
-Case #3: 2
-Case #4: 0
+Case #1: 4 4
+Case #2: 1 1000000000
+Case #3: 3 1
+Case #4: 3 999999995
 ```
 
 **Explaination**
 
-- In sample case #1, the 2nd checkpoint is a peak.
-- In sample case #2, there are no peaks.
-- In sample case #3, the 2nd and 4th checkpoint are peaks.
-- In sample case #4, there are no peaks.
+- In Sample Case #1, the rover moves three units south, then three units east.
+- In Sample Case #2, the rover moves one unit north. Since the planet is a torus, this moves it into row 109.
+- In Sample Case #3, the program given to the rover is equivalent to NSSSNEEN.
+- In Sample Case #4, the program given to the rover is equivalent to NWNWNWWEEEEWWEEEEWNWNWNWWEEEEWWEEEEW.
 
-**Go to the Editor:** <https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000386edd>
+**Go to the Editor:** <https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83dc>
