@@ -33,7 +33,7 @@ Visit [Resources.md](https://github.com/BlankCoders/GoogleKickStart2020_Solution
       ```
 ## Maintainer
 - Falguni Sarkar [(@lostgirljourney)](https://github.com/lostgirljourney)
-- Annirudha Das [(@Anni852)](https://github.com/Anni852)
+- Aniruddha Das [(@Anni852)](https://github.com/Anni852)
 
 ## :rocket: All the Best for Hacktoberfest! :rocket:
 
