@@ -9,7 +9,9 @@ for j in range(1,T+1):
     a = int(a)
     b = int(b)
     c = int(c)
-    print(f"Case #{j}: ",end="")
+    print("Case #",end="")
+    print(j,end="")
+    print(": ",end="")
 
     if n==1:
         if a==1 and c==1 and b==1 :
