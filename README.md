@@ -1,4 +1,4 @@
-<img src="https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/kickstart.jpg" align="centre">
+<img src="https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/kickstart.jpg" align="center">
 
 ## Google Kick Start 2020 Solutions
 
@@ -37,8 +37,8 @@ Visit [Resources.md](https://github.com/BlankCoders/GoogleKickStart2020_Solution
 
 ## :rocket: All the Best for Hacktoberfest! :rocket:
 
-<p align="center">
-  <img src="assets/Hacktoberfest2020.jpg" alt="Hacktoberfest2020">
-</p>
-
 (Mail us at [blankcoders@gmail.com](mailto:blankcoders@gmail.com) for any problem, issues or suggestions!)
+
+<p align="center">
+  <img src="https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/Hacktoberfest2020.jpg" alt="Hacktoberfest2020">
+</p>
