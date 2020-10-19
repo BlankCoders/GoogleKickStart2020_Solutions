@@ -45,3 +45,5 @@ for t in range(1,T+1):
     ```
     Issue Number for which I'm assigned & worked: #3
     ```
+
+    <img src="https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/Legends.JPG">
