@@ -1,4 +1,4 @@
-# Python to solve Kick_Start Problem by drishtantR1508
+# Python code to solve Kick_Start Problem by drishtantR1508
 def solve(string):
     empty_list = []
     for i in range(len(string)-3):
