@@ -35,9 +35,9 @@ Visit [Resources.md](https://github.com/BlankCoders/GoogleKickStart2020_Solution
 - Falguni Sarkar [(@lostgirljourney)](https://github.com/lostgirljourney)
 - Aniruddha Das [(@Anni852)](https://github.com/Anni852)
 
-## :rocket: All the Best for Hacktoberfest! :rocket:
-
 (Mail us at [blankcoders@gmail.com](mailto:blankcoders@gmail.com) for any problem, issues or suggestions!)
+
+## :rocket: All the Best for Hacktoberfest! :rocket:
 
 <p align="center">
   <img src="https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/Hacktoberfest2020.jpg" alt="Hacktoberfest2020">
