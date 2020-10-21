@@ -1,5 +1,6 @@
 ## Guidelines:
 
+* Go to [Issues](https://github.com/BlankCoders/GoogleKickStart2020_Solutions/issues) and mention what you want to solve and in which language.
 * Follow the Link: <https://codingcompetitions.withgoogle.com/kickstart>
 * Solve either in C or C++ or Java or Python.
 * Create a folder within the Question Folder with name `FirstName-ProgrammingLanguage`, for ex: `Falguni-Python`.
@@ -44,3 +45,5 @@ for t in range(1,T+1):
     ```
     Issue Number for which I'm assigned & worked: #3
     ```
+
+    <img src="https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/Legends.JPG">
