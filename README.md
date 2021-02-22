@@ -33,7 +33,7 @@ Visit [Resources.md](https://github.com/BlankCoders/GoogleKickStart2020_Solution
       ```
 ## Maintainer
 - Falguni Sarkar [(@lostgirljourney)](https://github.com/lostgirljourney)
-- Aniruddha Das [(@Anni852)](https://github.com/Anni852)
+- Aniruddha Das [(@OctoplusNinja)](https://github.com/OctoplusNinja)
 
 (Mail us at [blankcoders@gmail.com](mailto:blankcoders@gmail.com) for any problem, issues or suggestions!)
 
