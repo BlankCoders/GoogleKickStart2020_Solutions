@@ -36,9 +36,3 @@ Visit [Resources.md](https://github.com/BlankCoders/GoogleKickStart2020_Solution
 - Aniruddha Das [(@OctoplusNinja)](https://github.com/OctoplusNinja)
 
 (Mail us at [blankcoders@gmail.com](mailto:blankcoders@gmail.com) for any problem, issues or suggestions!)
-
-## :rocket: All the Best for Hacktoberfest! :rocket:
-
-<p align="center">
-  <img src="https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/Hacktoberfest2020.jpg" alt="Hacktoberfest2020">
-</p>
