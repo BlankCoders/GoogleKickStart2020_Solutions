@@ -57,7 +57,7 @@ Case #1: 15
 Case #2: 12
 ```
 
-**Explaination**
+**Explanation**
 
 In Sample Case #1, it took you 4 minutes to complete the first 4 levels and enter 5-th level. Restarting the game and completing all levels again would take 11 more minutes (1 minute to restart and 10 to complete 10 levels), which adds up to 15 minutes. The other option would be to move backwards until you reach level 2 (which would take 3 minutes), and then complete all the remaining levels (taking 9 more minutes), which would result in a total of 16 minutes.
 

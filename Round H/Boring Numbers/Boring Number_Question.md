@@ -47,7 +47,7 @@ Case #2: 3
 Case #3: 2
 ```
 
-**Explaination**
+**Explanation**
 
 In Sample Case #1, the numbers in the range are {5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15} out of which {5, 7, 9, 10, 12, 14} are boring, hence the answer is 6.
 

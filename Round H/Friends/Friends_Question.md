@@ -61,7 +61,7 @@ Case #1: 2 3
 Case #2: -1 -1
 ```
 
-**Explaination**
+**Explanation**
 
 * In sample case #1, there are two queries:
 

@@ -56,7 +56,7 @@ Case #1: 5
 Case #2: 4
 ```
 
-**Explaination**
+**Explanation**
 
 In the first test case, one of many optimal solutions is obtained by the second player moving two steps to the left and three steps down to the point (2, 1).
 
