@@ -1,4 +1,4 @@
-<img src="https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/kickstart.jpg" align="center">
+![images](assets/kickstart.jpg)
 
 ## Google Kick Start 2020 Solutions
 
@@ -31,6 +31,7 @@ Visit [Resources.md](https://github.com/BlankCoders/GoogleKickStart2020_Solution
       ```
       Issue Number for which I'm assigned & worked: #3
       ```
+      
 ## Maintainer
 - Falguni Sarkar [(@lostgirljourney)](https://github.com/lostgirljourney)
 - Aniruddha Das [(@OctoplusNinja)](https://github.com/OctoplusNinja)
