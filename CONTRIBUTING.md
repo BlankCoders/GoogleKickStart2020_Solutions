@@ -46,4 +46,4 @@ for t in range(1,T+1):
     Issue Number for which I'm assigned & worked: #3
     ```
 
-    <img src="https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/Legends.JPG">
+    ![image](https://user-images.githubusercontent.com/56036475/135408120-15280bfd-e390-48fa-a228-01316c047a57.png)
