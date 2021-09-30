@@ -36,3 +36,6 @@ Visit [Resources.md](https://github.com/BlankCoders/GoogleKickStart2020_Solution
 - Aniruddha Das [(@OctoplusNinja)](https://github.com/OctoplusNinja)
 
 (Contact [here](https://github.com/BlankCoders/GoogleKickStart2020_Solutions/discussions/96) for any problem, issues or suggestions!)
+
+## Participating in
+![images](assets/hacktoberfest.svg)
