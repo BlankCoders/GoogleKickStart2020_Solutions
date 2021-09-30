@@ -1,10 +1,6 @@
-# Hacktoberfest-2020
+# Hacktoberfest 2021
 
-Hacktoberfest® is open to everyone in our global community. Whether you’re a developer or a student learning to code.
-
-* Hacktoberfest is a celebration open to everyone in our global community.
-* Pull requests can be made in any GitHub-hosted repositories/projects.
-* You can sign up anytime between October 1 and October 31.
+Hacktoberfest® is open to everyone in our global community. Whether you’re a seasoned contributor or looking for projects to contribute to for the first time, you’re welcome to participate.
 
 ### Visit [Hacktoberfest](https://hacktoberfest.digitalocean.com/) Website to know more.
 
@@ -14,11 +10,24 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 * Then register at <https://hacktoberfest.digitalocean.com/register> by logging through your GitHub Account and you're all set to contribute for Hacktoberfest.
 
 ### But there are some rules for Hacktoberfest and here we go:
-To earn your Hacktoberfest tee or tree reward, you must register and make four valid pull requests (PRs) between October 1-31, 2020 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 70,000 participants who successfully complete the challenge will be eligible to receive a prize.
 
-Read the [participation details](https://hacktoberfest.digitalocean.com/details) to learn how to earn your Hacktoberfest tee or tree reward.
+✅ Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
 
-![Do's & Dont's](https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/EditorSS/20201003_160953.jpg)
+✅ The pull request must contain commits you made yourself.
+
+⚠️ If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
+
+⚠️ If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
+
+✅ To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
+
+😀 This year, the first 50,000 participants can earn a T-shirt.
+
+A repository/project is considered to be participating in Hacktoberfest if the **'hacktoberfest'** topic is present and is accepting public contributions via pull requests. An individual pull request can also be opted-in directly by adding the 'hacktoberfest-accepted' label.
+
+A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label. A pull request with any label containing the word 'spam' or 'invalid' will be considered ineligible for Hacktoberfest.
+
+Read the [participation details](https://hacktoberfest.digitalocean.com/resources/participation) to learn how to earn your Hacktoberfest tee or tree reward.
 
 ## Resources for learning Git and GitHub
 
@@ -157,5 +166,4 @@ Read the [participation details](https://hacktoberfest.digitalocean.com/details)
 
 ## :rocket: Voila! You have Contributed to Open-Source 😋.
 
-If you stuck somewhere contact us:
-- [blankcoders@gmail.com](mailto:blankcoders@gmail.com)
+If you stuck somewhere, contact [here](https://github.com/BlankCoders/GoogleKickStart2020_Solutions/discussions/96).
