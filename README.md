@@ -35,4 +35,4 @@ Visit [Resources.md](https://github.com/BlankCoders/GoogleKickStart2020_Solution
 - Falguni Sarkar [(@lostgirljourney)](https://github.com/lostgirljourney)
 - Aniruddha Das [(@OctoplusNinja)](https://github.com/OctoplusNinja)
 
-(Mail us at [blankcoders@gmail.com](mailto:blankcoders@gmail.com) for any problem, issues or suggestions!)
+(Contact [here](https://github.com/BlankCoders/GoogleKickStart2020_Solutions/discussions/96) for any problem, issues or suggestions!)
