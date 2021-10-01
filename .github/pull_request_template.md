@@ -9,11 +9,7 @@
 ## Checklist
 - [ ] I've read the contribution guidelines.
 - [ ] I've checked the issue list before deciding what to submit.
-- [ ] I've edited the README.md and link to my code.
- 
  
 ## Related Issues (Mention Issue no. like #xxx)
 
-Fixes Issue 
-<br/>
-(Write your answer above.)
+Fixes Issue # (write number here)
