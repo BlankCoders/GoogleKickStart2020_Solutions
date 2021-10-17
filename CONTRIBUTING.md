@@ -1,7 +1,7 @@
 ## Guidelines:
 
 * Go to [Issues](https://github.com/BlankCoders/GoogleKickStart2020_Solutions/issues) and mention what you want to solve and in which language.
-* Follow the Link: <https://codingcompetitions.withgoogle.com/kickstart>
+* Follow the Link: <https://codingcompetitions.withgoogle.com/kickstart/archive/2020>
 * Solve either in C or C++ or Java or Python.
 * Create a folder within the Question Folder with name `FirstName-ProgrammingLanguage`, for ex: `Falguni-Python`.
 
