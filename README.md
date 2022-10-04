@@ -42,4 +42,4 @@ Visit [Resources.md](https://github.com/BlankCoders/GoogleKickStart2020_Solution
 [![image](https://contrib.rocks/image?repo=BlankCoders/GoogleKickStart2020_Solutions)](https://github.com/BlankCoders/GoogleKickStart2020_Solutions/graphs/contributors)
 
 ## Participating in
-![images](assets/hacktoberfest.svg)
+![image](https://user-images.githubusercontent.com/56036475/193830439-8b341394-66f4-4a20-af25-2fd1ca96b6a4.png)
