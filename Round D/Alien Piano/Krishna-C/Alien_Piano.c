@@ -1,3 +1,4 @@
+// Inspired or took help from https://www.youtube.com/watch?v=Wb0tE1Tw9SM
 #include<stdio.h>
 
 int MAX = 1e9; 
